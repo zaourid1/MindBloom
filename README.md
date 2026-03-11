@@ -6,6 +6,8 @@ Instead of reading about AI concepts, users **train a digital brain**, watch it 
 
 MindBloom was built using **SwiftUI** and designed for the **Apple Swift Student Challenge**.
 
+![MindBloom Home](screenshots/home.png)
+
 ---
 
 # 🧠 The Idea
@@ -39,6 +41,8 @@ Examples of training data:
 Each drawing becomes **training data** for the brain.
 
 The more examples provided, the smarter the brain becomes.
+
+![MindBloom Home](screenshots/train.png)
 
 ---
 
